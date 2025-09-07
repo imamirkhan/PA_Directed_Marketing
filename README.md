@@ -1,4 +1,4 @@
-Link: https://github.com/imamirkhan/PA_Directed_Marketing/prompt_III.ipynb
+Link: https://github.com/imamirkhan/PA_Directed_Marketing/blob/main/prompt_III.ipynb
 
 # Marketing Campaign Conversion - Comparing various models
 
